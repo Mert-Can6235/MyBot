@@ -74,4 +74,4 @@ async def ZXBANKRP(ctx):
     await(f'Sağlayıcı IDE: Visual Studio Code')
     await(f'Sağlayıcı CMD: Python version 3.11')
 
-bot.run("MTI3MjU5ODU2NjQ1OTY3MDU2OQ.G87CLZ.QYsUZMicFEQBLGQ-fxG6wBz5lTxPrygQkeNVJk")
+bot.run()
